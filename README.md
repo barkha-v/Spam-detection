@@ -129,7 +129,7 @@ Cross-validation and hyperparameter tuning (on training data only), n-gram featu
 ## License and attribution
 Code: MIT License (see `LICENSE`). Dataset: SMS Spam Collection (Almeida & Hidalgo, 2011), UCI Machine Learning Repository – see `data/README.md`.
 
-## Author
+## Contributor
 **barkha-v** – https://github.com/barkha-v
 
 ## Common errors and fixes
