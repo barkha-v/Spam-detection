@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset (downloaded by download_data.py, not committed)
+data/*
+!data/README.md
+
+# Generated model files (recreate with train_model.py)
+models/*
+!models/.gitkeep
+
+# Generated reports (recreate with train_model.py)
+reports/*
+!reports/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets (never commit these)
+.env
